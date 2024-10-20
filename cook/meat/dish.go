@@ -1,6 +1,6 @@
 package meat
 
-import "study/gomod/logprint"
+import "gomod/logprint"
 
 func Make(s string) {
 	name := "菜名: " + s
